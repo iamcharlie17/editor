@@ -1,7 +1,7 @@
 1. Clone the repo.
-2. Copy the <h2>editor-component</h2> folder.
+2. Copy the <h1>editor-component</h1> folder.
 3. Paste it to your project.
-4. Call <h2> <EditorForm/> </h2> Component
+4. Call <h1> EditorForm </h1> Component
 
 5. Match the package.json
 
