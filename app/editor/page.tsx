@@ -3,7 +3,7 @@
 import { useState } from "react"
 import { SerializedEditorState } from "lexical"
 
-import { Editor } from "./components/blocks/editor-x/editor"
+import { Editor } from "@/app/editor/components/blocks/editor-x/editor"
 
 export const initialValue = {
   root: {
