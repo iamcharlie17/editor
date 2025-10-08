@@ -5,7 +5,7 @@
 
 5. Match the package.json
 
-{
+<pre>{
   "name": "editor",
   "version": "0.1.0",
   "private": true,
@@ -70,3 +70,4 @@
     "typescript": "^5"
   }
 }
+</pre>
